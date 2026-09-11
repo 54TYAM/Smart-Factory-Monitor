@@ -1,5 +1,26 @@
+﻿# Dependencies
 **/node_modules/
-**/.expo/
-**/.claude/
-.env
 
+# Expo
+**/.expo/
+
+# IDE / Editor
+**/.claude/
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
